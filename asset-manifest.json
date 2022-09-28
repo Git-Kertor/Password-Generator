@@ -1,15 +1,15 @@
 {
-  "main.css": "/Password-Managers/static/css/main.fd32c73c.chunk.css",
-  "main.js": "/Password-Managers/static/js/main.5dbd38e1.chunk.js",
-  "main.js.map": "/Password-Managers/static/js/main.5dbd38e1.chunk.js.map",
-  "static/css/1.92aa7ded.chunk.css": "/Password-Managers/static/css/1.92aa7ded.chunk.css",
-  "static/js/1.5e61b55f.chunk.js": "/Password-Managers/static/js/1.5e61b55f.chunk.js",
-  "static/js/1.5e61b55f.chunk.js.map": "/Password-Managers/static/js/1.5e61b55f.chunk.js.map",
-  "runtime~main.js": "/Password-Managers/static/js/runtime~main.532dbdf7.js",
-  "runtime~main.js.map": "/Password-Managers/static/js/runtime~main.532dbdf7.js.map",
-  "static/css/1.92aa7ded.chunk.css.map": "/Password-Managers/static/css/1.92aa7ded.chunk.css.map",
-  "static/css/main.fd32c73c.chunk.css.map": "/Password-Managers/static/css/main.fd32c73c.chunk.css.map",
-  "index.html": "/Password-Managers/index.html",
-  "precache-manifest.b528b807ab65c15b18016fa622215ee2.js": "/Password-Managers/precache-manifest.b528b807ab65c15b18016fa622215ee2.js",
-  "service-worker.js": "/Password-Managers/service-worker.js"
+  "main.css": "/Password-Generator/static/css/main.fd32c73c.chunk.css",
+  "main.js": "/Password-Generator/static/js/main.850ac673.chunk.js",
+  "main.js.map": "/Password-Generator/static/js/main.850ac673.chunk.js.map",
+  "static/css/1.92aa7ded.chunk.css": "/Password-Generator/static/css/1.92aa7ded.chunk.css",
+  "static/js/1.5e61b55f.chunk.js": "/Password-Generator/static/js/1.5e61b55f.chunk.js",
+  "static/js/1.5e61b55f.chunk.js.map": "/Password-Generator/static/js/1.5e61b55f.chunk.js.map",
+  "runtime~main.js": "/Password-Generator/static/js/runtime~main.e101ec14.js",
+  "runtime~main.js.map": "/Password-Generator/static/js/runtime~main.e101ec14.js.map",
+  "static/css/main.fd32c73c.chunk.css.map": "/Password-Generator/static/css/main.fd32c73c.chunk.css.map",
+  "static/css/1.92aa7ded.chunk.css.map": "/Password-Generator/static/css/1.92aa7ded.chunk.css.map",
+  "index.html": "/Password-Generator/index.html",
+  "precache-manifest.c9b7de1a2330130effb90d495279a0e3.js": "/Password-Generator/precache-manifest.c9b7de1a2330130effb90d495279a0e3.js",
+  "service-worker.js": "/Password-Generator/service-worker.js"
 }
