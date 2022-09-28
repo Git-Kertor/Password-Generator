@@ -1,15 +1,15 @@
 {
-  "main.css": "Git-Kertor.github.io/Password-Manager/static/css/main.fd32c73c.chunk.css",
-  "main.js": "Git-Kertor.github.io/Password-Manager/static/js/main.fbac8c75.chunk.js",
-  "main.js.map": "Git-Kertor.github.io/Password-Manager/static/js/main.fbac8c75.chunk.js.map",
-  "static/css/1.92aa7ded.chunk.css": "Git-Kertor.github.io/Password-Manager/static/css/1.92aa7ded.chunk.css",
-  "static/js/1.5e61b55f.chunk.js": "Git-Kertor.github.io/Password-Manager/static/js/1.5e61b55f.chunk.js",
-  "static/js/1.5e61b55f.chunk.js.map": "Git-Kertor.github.io/Password-Manager/static/js/1.5e61b55f.chunk.js.map",
-  "runtime~main.js": "Git-Kertor.github.io/Password-Manager/static/js/runtime~main.1b88f4eb.js",
-  "runtime~main.js.map": "Git-Kertor.github.io/Password-Manager/static/js/runtime~main.1b88f4eb.js.map",
-  "static/css/1.92aa7ded.chunk.css.map": "Git-Kertor.github.io/Password-Manager/static/css/1.92aa7ded.chunk.css.map",
-  "static/css/main.fd32c73c.chunk.css.map": "Git-Kertor.github.io/Password-Manager/static/css/main.fd32c73c.chunk.css.map",
-  "index.html": "Git-Kertor.github.io/Password-Manager/index.html",
-  "precache-manifest.d743c01d39298c1395fd9ea0cf32ab91.js": "Git-Kertor.github.io/Password-Manager/precache-manifest.d743c01d39298c1395fd9ea0cf32ab91.js",
-  "service-worker.js": "Git-Kertor.github.io/Password-Manager/service-worker.js"
+  "main.css": "/Password-Manager/static/css/main.fd32c73c.chunk.css",
+  "main.js": "/Password-Manager/static/js/main.1b7b0bac.chunk.js",
+  "main.js.map": "/Password-Manager/static/js/main.1b7b0bac.chunk.js.map",
+  "static/css/1.92aa7ded.chunk.css": "/Password-Manager/static/css/1.92aa7ded.chunk.css",
+  "static/js/1.5e61b55f.chunk.js": "/Password-Manager/static/js/1.5e61b55f.chunk.js",
+  "static/js/1.5e61b55f.chunk.js.map": "/Password-Manager/static/js/1.5e61b55f.chunk.js.map",
+  "runtime~main.js": "/Password-Manager/static/js/runtime~main.beb36ef0.js",
+  "runtime~main.js.map": "/Password-Manager/static/js/runtime~main.beb36ef0.js.map",
+  "static/css/main.fd32c73c.chunk.css.map": "/Password-Manager/static/css/main.fd32c73c.chunk.css.map",
+  "static/css/1.92aa7ded.chunk.css.map": "/Password-Manager/static/css/1.92aa7ded.chunk.css.map",
+  "index.html": "/Password-Manager/index.html",
+  "precache-manifest.4f974c13cfc6bbde788e3d39bc0fe3dd.js": "/Password-Manager/precache-manifest.4f974c13cfc6bbde788e3d39bc0fe3dd.js",
+  "service-worker.js": "/Password-Manager/service-worker.js"
 }

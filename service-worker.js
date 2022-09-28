@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "Git-Kertor.github.io/Password-Manager/precache-manifest.d743c01d39298c1395fd9ea0cf32ab91.js"
+  "/Password-Manager/precache-manifest.4f974c13cfc6bbde788e3d39bc0fe3dd.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("Git-Kertor.github.io/Password-Manager/index.html", {
+workbox.routing.registerNavigationRoute("/Password-Manager/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
