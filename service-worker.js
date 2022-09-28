@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Password-Manager/precache-manifest.4f974c13cfc6bbde788e3d39bc0fe3dd.js"
+  "/Password-Managers/precache-manifest.b528b807ab65c15b18016fa622215ee2.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Password-Manager/index.html", {
+workbox.routing.registerNavigationRoute("/Password-Managers/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
