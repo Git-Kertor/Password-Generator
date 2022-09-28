@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "Git-Kertor.github.io/Password-Manager/precache-manifest.deac9c7875fa5094ffcd18e3c0315817.js"
+  "Git-Kertor.github.io/Password-Manager/precache-manifest.d743c01d39298c1395fd9ea0cf32ab91.js"
 );
 
 workbox.clientsClaim();
