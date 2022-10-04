@@ -1,6 +1,16 @@
 
+body {
+  background-color: #2c2c2c;
+}
+
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10%;
+  padding-bottom: 10%;
 }
 
 .App-logo {
@@ -9,17 +19,17 @@
 }
 
 .App-lock-circle {
-  top: 10%;
   display: flex;
-  position: absolute;
+  position: relative;
   align-items: center;
+  padding-bottom: 30px;
 }
 
 .App-lock-icon {
   width: 128px;
   display: block;
-  padding-left: 8px;
-  padding-top: 4px;
+  padding-left: 10px;
+  padding-top: 2px;
 }
 
 .Lock-circle-mask {
@@ -88,6 +98,9 @@
 .buttonRow {
   display: flex;
   height: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+  transform: scale(0.8);
 }
 
 .App-Generate-Button {
@@ -99,16 +112,6 @@
   background: #e16666;
   border: 1px solid black;
   border-radius: 5px;
-}
-
-.App-header {
-  background-color: #2c2c2c;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  color: white;
 }
 
 .App-link {

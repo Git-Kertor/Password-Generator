@@ -111,8 +111,7 @@ function App() {
 
   return (
 	<div className="App">
-	  <header className="App-header">
-		<div className="App-lock-circle">
+		<div className="App-lock-circle"><br/>
 		  <img src={lock} className="App-lock-icon" alt="lock-icon"/>
 		  <div className="Lock-circle-mask">
 			<div className="Lock-circle"/>
@@ -124,10 +123,13 @@ function App() {
 		<Digits len = {len} onChange={ResetDigits}/>
 		<label style={{marginTop: '1em',fontSize: '2em', color: '#e16666'}}>Select the length of your password:</label>
 		<div className="buttonRow">
-			<Select value = {len} styles = {dropDownTheme} options = {lenOptions} onChange = {handleLenChange}/>
-			<button className="App-Generate-Button" onClick = {(e) => GenerateDigits(len)}>Generate Password</button>
+			<div className="buttonBlock">
+				<Select value = {len} styles = {dropDownTheme} options = {lenOptions} onChange = {handleLenChange}/>
+			</div>
+			<div className="buttonBlock">
+				<button className="App-Generate-Button" onClick = {(e) => GenerateDigits(len)}>Generate Password</button><br/>
+			</div>
 		</div>
-	  </header>
 	</div>
   );
 }
